@@ -1,6 +1,6 @@
 **If you want to continue with Hindi then tap the link below:**
 
-[Hindi](https://github.com/Aayon-Mukherjee/Nerolac_Paints_hi)
+[Hindi](https://github.com/Aayon-Mukherjee/Nerolac_Paints_hi/blob/main/nerolac_hi.md)
 
 ![Nerolac Logo](https://www.nerolac.com/sites/default/files/logo-landing_0.png)
 
